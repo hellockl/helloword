@@ -7,5 +7,5 @@ echo $a;
 unset($array); 
 $a = unserialize($a); 
 print_r($a); 
-
+echo "aaa";
 phpinfo();
